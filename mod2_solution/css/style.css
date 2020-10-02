@@ -32,7 +32,8 @@ h2 {
   left: 75%;
   margin: 0;
   font-size: 1.25em;
-  border: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
   width: 25%;
   padding: 10px;
 }
